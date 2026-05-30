@@ -1,0 +1,2 @@
+num_rows,num_columns,num_routes,num_route_names,num_trips,num_stops,target_name,target_mean,target_std,target_min,target_max
+41005,9,5,5,1015,375,travel_time,88.37361297402755,97.37866945128171,4.0,1435.0
