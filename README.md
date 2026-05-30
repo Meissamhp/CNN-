@@ -55,7 +55,6 @@ If incoming data violates this law (e.g., impossible bus speeds), the model reje
 
 | Model | Type | Physical Constraints |
 |-------|------|---------------------|
-| MLP | Baseline | ❌ None |
 | RNN | Baseline | ❌ None |
 | CNN | Baseline | ❌ None |
 | LSTM | Baseline | ❌ None |
